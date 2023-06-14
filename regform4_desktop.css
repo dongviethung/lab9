@@ -1,8 +1,17 @@
 /* Style the form to a fixed width so the form looks the same
 	 even if the browser window is resize
 */
+body{
+	font-family:Arial;
+	padding-top:100px;
+	color: black;
+	background-image: url("hinh nen jonhwick.jpg");
+}
 form {
 	width 				: 50em;
+	background-color:ffffff;
+	margin-left: 200px;
+	text-algin: center;
 }
 
 /* Style the labels and input by aligning all input fields 
