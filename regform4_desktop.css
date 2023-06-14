@@ -1,11 +1,7 @@
 /* Style the form to a fixed width so the form looks the same
 	 even if the browser window is resize
 */
-body{
-	font-family:Arial;
-	padding-top:100px;
-	background-image: url("hinh nen jonhwick.jpg");
-}
+background-image: url("hinh nen jonhwick.jpg");
 form {
 	width 				: 50em;
 	background-color:ffffff;
