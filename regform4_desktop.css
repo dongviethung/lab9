@@ -1,9 +1,6 @@
 /* Style the form to a fixed width so the form looks the same
 	 even if the browser window is resize
 */
-body{
-background-image: url("hinh nen jonhwick.jpg");
-}
 form {
 	width 				: 50em;
 	background-color:ffffff;
