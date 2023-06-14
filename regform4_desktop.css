@@ -4,7 +4,6 @@
 body{
 	font-family:Arial;
 	padding-top:100px;
-	color: black;
 	background-image: url("hinh nen jonhwick.jpg");
 }
 form {
@@ -18,7 +17,7 @@ form {
 */
 label {
 	float 				: left;
-	text-align		: right;
+	text-align		: center;
 	width 				: 10em;
 	margin-right	: 1em;
 }
